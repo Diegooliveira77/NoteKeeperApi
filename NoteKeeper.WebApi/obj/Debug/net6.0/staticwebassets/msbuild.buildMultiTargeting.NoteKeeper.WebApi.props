@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NoteKeeper.WebApi.props" />
+</Project>

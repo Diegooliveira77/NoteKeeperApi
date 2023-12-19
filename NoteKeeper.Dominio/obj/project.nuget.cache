@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wow2hpblnVPwDhT6GI8K4wuUcwcsHPacM/uLORFh02A41/VUwvB5ZqQmuZtCXquJr2mcJzAhKs9MUuRjrmkKYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Dominio\\NoteKeeper.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

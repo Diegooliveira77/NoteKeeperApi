@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mbwkjuuxaQuoPfdeZNBHYOFSDvblf78Ub5du9BWHrc8=",
+  "Source": "NoteKeeper.WebApi",
+  "BasePath": "_content/NoteKeeper.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
