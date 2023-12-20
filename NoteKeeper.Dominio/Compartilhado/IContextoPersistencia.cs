@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NoteKeeper.Dominio.Compartilhado
+﻿namespace NoteKeeper.Dominio.Compartilhado
 {
-    public interface IContextoPersistencia
-    {
-        Task<bool> GravarAsync();
-    }
+  public interface IContextoPersistencia
+  {
+    Task<bool> GravarAsync();
+  }
 }

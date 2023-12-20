@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a5cRYY1wZduYjADyr8OJr7jkRwgq6RvTGiOrYjyAFvOm4y2Ak1zBQyorxLSVnr0aL9EpPCmm2uNmg5ke8m6I7Q==",
+  "dgSpecHash": "DD3QXcixa8HoyyN3LK2q1wkcFRuac9osi5DbC1E5MLENPPGQFg0BIyEdEMGhN77XH6er9AeZ0yprsBkwxR1t8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Infra.Orm\\NoteKeeper.Infra.Orm.csproj",
+  "projectFilePath": "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.Infra.Orm\\NoteKeeper.Infra.Orm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

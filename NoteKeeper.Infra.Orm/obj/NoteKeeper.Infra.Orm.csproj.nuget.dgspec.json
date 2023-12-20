@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Infra.Orm\\NoteKeeper.Infra.Orm.csproj": {}
+    "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.Infra.Orm\\NoteKeeper.Infra.Orm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Dominio\\NoteKeeper.Dominio.csproj": {
+    "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.Dominio\\NoteKeeper.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Dominio\\NoteKeeper.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.Dominio\\NoteKeeper.Dominio.csproj",
         "projectName": "NoteKeeper.Dominio",
-        "projectPath": "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Dominio\\NoteKeeper.Dominio.csproj",
+        "projectPath": "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.Dominio\\NoteKeeper.Dominio.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Infra.Orm\\NoteKeeper.Infra.Orm.csproj": {
+    "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.Infra.Orm\\NoteKeeper.Infra.Orm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Infra.Orm\\NoteKeeper.Infra.Orm.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.Infra.Orm\\NoteKeeper.Infra.Orm.csproj",
         "projectName": "NoteKeeper.Infra.Orm",
-        "projectPath": "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Infra.Orm\\NoteKeeper.Infra.Orm.csproj",
+        "projectPath": "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.Infra.Orm\\NoteKeeper.Infra.Orm.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Infra.Orm\\obj\\",
+        "outputPath": "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.Infra.Orm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Dominio\\NoteKeeper.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.Dominio\\NoteKeeper.Dominio.csproj"
+              "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.Dominio\\NoteKeeper.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.Dominio\\NoteKeeper.Dominio.csproj"
               }
             }
           }

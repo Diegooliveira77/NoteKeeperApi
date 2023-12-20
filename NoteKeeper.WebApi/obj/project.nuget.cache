@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qlBK6crJR4kKf01vkocJA+SXChOJWGhY5CAlg8eP1Sk7izuqTmj20vK2Mwsb+0Sqo0eaFcZGIYZZ+kNEhv6fiQ==",
+  "dgSpecHash": "9mPUPZZdjB96ITV88Y4UchY8J5tzIIHYjwEL9+ELv/EmVk2oPxA/byftu8zixzTtL6Qo9s/ZTwI/ZAIduhsyvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.WebApi\\NoteKeeper.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.WebApi\\NoteKeeper.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

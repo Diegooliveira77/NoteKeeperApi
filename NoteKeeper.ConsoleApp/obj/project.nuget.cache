@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zCvZi1cTp30i4hTpbLapnDS30QiS+Ovw8qnWpjeo0eIpCIutTw0jhrt615BLlyAk2iE00iE+/0o0Q71KGpRNYg==",
+  "dgSpecHash": "55VhMm2d2H7tWJz1k23bInGDYkWj0CmMUp9HP+B6EM3DwyYgESiZlmstaeE0ua7bAS2k8j4FvaUDeGqMHbU2iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego\\Desktop\\NoteKeeper\\NoteKeeper.ConsoleApp\\NoteKeeper.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\Diego\\Desktop\\NoteKeeperDiego\\NoteKeeper.ConsoleApp\\NoteKeeper.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

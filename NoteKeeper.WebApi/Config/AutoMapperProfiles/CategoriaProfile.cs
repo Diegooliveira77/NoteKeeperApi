@@ -4,18 +4,18 @@ using NoteKeeper.WebApi.ViewModels;
 
 namespace NoteKeeper.WebApi.Config.AutoMapperProfiles
 {
-    public class CategoriaProfile : Profile
+  public class CategoriaProfile : Profile
+  {
+    public CategoriaProfile()
     {
-        public CategoriaProfile()
-        {
-            CreateMap<Categoria, ListarCategoriaViewModel>();
-            CreateMap<Categoria, VisualizarCategoriaViewModel>();
+      CreateMap<Categoria, ListarCategoriaViewModel>();
+      CreateMap<Categoria, VisualizarCategoriaViewModel>();
 
-            CreateMap<InserirCategoriaViewModel, Categoria>();
-            CreateMap<EditarCategoriaViewModel, Categoria>();
+      CreateMap<InserirCategoriaViewModel, Categoria>();
+      CreateMap<EditarCategoriaViewModel, Categoria>();
 
-        }
     }
+  }
 
 }
 
